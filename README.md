@@ -1,8 +1,4 @@
-# Dapp Boilerplate
-
-## Built by Thomas
-
-## Connect Wallet implemented
+# Simple Dapp
 
 ```
 yarn
